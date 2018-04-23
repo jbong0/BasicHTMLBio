@@ -2,4 +2,4 @@
 
 ## First Project of UCB Coding Bootcamp
 
-## Basic HTML Mock-Portfolio
+** Basic HTML Mock-Portfolio **
